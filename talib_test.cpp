@@ -41,7 +41,7 @@ int main()
     for( i=0; i <out_nb_element; i++ )
        printf( "%d = %f\n", out_begin+i,out[i] );
    
-    printf( "%d = %f\n", out_begin+out_nb_element-1,out[out_nb_element-1]); /last record
+    printf( "%d = %f\n", out_begin+out_nb_element-1,out[out_nb_element-1]); //last record
     
     for (auto &price : close_price_array)
         cout << price << " ";
