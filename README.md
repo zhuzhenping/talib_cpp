@@ -1,2 +1,2 @@
 # talib_cpp
-c++下的ta-lib简单使用
+linux c++下的ta-lib简单使用
