@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuzhenping/source code/talib_test.cpp
+iostream
+-
+time.h
+-
+assert.h
+-
+ta_libc.h
+/home/zhuzhenping/source code/ta_libc.h
+
+/home/zhuzhenping/ta-lib/include/ta_abstract.h
+ta_common.h
+/home/zhuzhenping/ta-lib/include/ta_common.h
+
+/home/zhuzhenping/ta-lib/include/ta_common.h
+stdio.h
+-
+limits.h
+-
+float.h
+-
+ta_defs.h
+/home/zhuzhenping/ta-lib/include/ta_defs.h
+
+/home/zhuzhenping/ta-lib/include/ta_defs.h
+limits.h
+-
+
+/home/zhuzhenping/ta-lib/include/ta_func.h
+ta_common.h
+/home/zhuzhenping/ta-lib/include/ta_common.h
+ta_defs.h
+/home/zhuzhenping/ta-lib/include/ta_defs.h
+
+/home/zhuzhenping/ta-lib/include/ta_libc.h
+ta_common.h
+/home/zhuzhenping/ta-lib/include/ta_common.h
+ta_func.h
+/home/zhuzhenping/ta-lib/include/ta_func.h
+ta_abstract.h
+/home/zhuzhenping/ta-lib/include/ta_abstract.h
+

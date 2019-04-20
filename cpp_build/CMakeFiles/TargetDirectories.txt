@@ -1,0 +1,3 @@
+/home/zhuzhenping/source code/cpp_build/CMakeFiles/rebuild_cache.dir
+/home/zhuzhenping/source code/cpp_build/CMakeFiles/talib_test.dir
+/home/zhuzhenping/source code/cpp_build/CMakeFiles/edit_cache.dir

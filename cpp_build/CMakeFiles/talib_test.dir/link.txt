@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/talib_test.dir/talib_test.cpp.o  -o talib_test -lta_lib 
