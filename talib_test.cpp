@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "ta-lib test" << std::endl;
+    cout << "ta-lib test" << endl;
 
     // init ta-lib context
     TA_RetCode retcode;
